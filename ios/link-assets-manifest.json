@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SairaCondensed-Black.ttf",
+      "sha1": "73f7ff46f4abc2e8562e00721f97b9d440eb1beb"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-Bold.ttf",
+      "sha1": "1861952eb7d7fb3a4c70d26d04ec18548639c003"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-ExtraBold.ttf",
+      "sha1": "f4beb5930c2286081765fedcb5c551fa90e1410e"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-ExtraLight.ttf",
+      "sha1": "437b151e2b97940f0404d6f8a158ae16160c30e2"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-Light.ttf",
+      "sha1": "f841748f0a763202989911c5f278aa346f9189b4"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-Medium.ttf",
+      "sha1": "b482093463991d92345db17a1c306236c7fd2cf7"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-Regular.ttf",
+      "sha1": "cd01303b1dd95bb9d80f69048a91078d4843cf25"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-SemiBold.ttf",
+      "sha1": "ecdceb5964733a0af7191c13556d81bc00f573f1"
+    },
+    {
+      "path": "src/assets/fonts/SairaCondensed-Thin.ttf",
+      "sha1": "0ddaafe793c35eb375b417a767006cae2eff8c66"
+    }
+  ]
+}
